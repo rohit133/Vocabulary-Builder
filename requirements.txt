@@ -1,0 +1,5 @@
+requests
+Random-Word
+PyDictionary
+win10toast
+pyaml
