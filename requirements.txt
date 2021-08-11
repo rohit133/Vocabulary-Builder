@@ -3,3 +3,4 @@ Random-Word
 PyDictionary
 win10toast
 pyaml
+schedule
