@@ -2,5 +2,5 @@ requests
 Random-Word
 PyDictionary
 win10toast
-pyaml
 schedule
+cx_Freeze

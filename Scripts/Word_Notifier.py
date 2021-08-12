@@ -17,15 +17,15 @@ def notify():
     except:
         print("Please! Check your internet connection")
 
-    results = "Word :"+word.upper() +"\n" +"Meaning: "+str(meaning)
+    results = "Word :"+word.capitalize() +"\n" +"Meaning: "+str(meaning)
 
     # Creating Notification
 
-    toaster.show_toast("Vocabulary Builder\n",results,icon_path ="E:\github\Vocabulary-Builder\Scripts\icon.ico",duration=30)
+    toaster.show_toast("Vocabulary Builder\n",results,icon_path ="E:\github\Vocabulary-Builder\icon\icon.ico",duration=30)
 
 
-schedule.every(1).second.do(notify)
+schedule.every(2).hours.do(notify)
 while 1:
     schedule.run_pending()
-    time.sleep(0)
+    time.sleep(1)
 
