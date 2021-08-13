@@ -1,5 +1,5 @@
 # Vocabulary-Emphasize
-### This Program will Provide you new word with it meaning to imporve your Vocabulary.
+### This Desktop application will send you notification with new word and it's meaning to imporve your Vocabulary.
 
 # How to use it 
 * Clone the repositroy 
