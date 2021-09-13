@@ -1,4 +1,4 @@
-# Vocabulary-Emphasize
+# Vocabulary-Builder
 ### This Desktop application will send you notification with new word and it's meaning to imporve your Vocabulary.This program uses a random word generating module to find words than an online python dictionary to find the meaning and sends you a notification every 2 hours. 
 
 # How to use it 
